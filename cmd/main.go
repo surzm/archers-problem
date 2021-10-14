@@ -1,12 +1,13 @@
 package main
 
 import (
-	"archers"
 	"context"
 	"flag"
+	"time"
+
 	"github.com/libp2p/go-libp2p-core/peer"
 	"github.com/sirupsen/logrus"
-	"time"
+	"github.com/surzm/archers-problem"
 )
 
 var (
