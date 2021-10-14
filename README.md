@@ -1,4 +1,4 @@
-###Archer problem simple solving
+### Archer problem simple solving
 
 Available keys:
 - archers (int) - amount of nodes
